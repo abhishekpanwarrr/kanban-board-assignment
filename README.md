@@ -6,7 +6,8 @@ Kanban board designed in reactjs with functionalities sorting and grouping ticke
 
 ## Demo
 
-Insert gif or link to demo
+Link fro live demo: - 
+https://kanban-board-assignment-five.vercel.app/
 
 
 ## Tech Stack
