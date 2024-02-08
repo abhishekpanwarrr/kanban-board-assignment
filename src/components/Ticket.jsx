@@ -16,7 +16,7 @@ const Ticket = ({ ticket }) => {
         <div
           style={{
             position: "relative",
-          }}
+                      }}
         >
           <div className="custom-box">{ticket?.user.name?.[0] || "?"}</div>
           <div

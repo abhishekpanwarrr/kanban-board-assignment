@@ -45,7 +45,8 @@ body {
 /* Ticket */
 .ticket {
   background-color: #fff;
-  width: 350px;
+  min-width: 300px;
+  max-width: 350px;
   padding: 10px;
   margin: 10px 0;
   border-radius: 5px;
@@ -145,6 +146,7 @@ body {
   border-bottom: 1px solid #eee;
   position: sticky;
   top: 0;
+  z-index: 10;
 }
 
 .dropbtn {
